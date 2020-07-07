@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-gesture-handler": "^1.4.1",
+    "react-navigation-tabs": "^2.5.4"
+  }
+}
